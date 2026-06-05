@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🪐 MaxenceBatt | Cyberpunk Developer Profile 
+# 🪐 MaxenceBatt | Developer Profile 
 
 > "Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."
 
@@ -61,14 +61,16 @@ C'est le projet dont je suis le plus fier en cette première année. Développé
 
 ## 📊 Statistiques de Code & Activité
 
-Voici un aperçu en temps réel de mes langages les plus utilisés et de mon activité globale de commit. *(Les graphiques se mettront à jour automatiquement dès que mes projets seront poussés en ligne !)*
+Voici la répartition de mes langages sous forme de camembert et mon activité globale. *(Les graphiques s'actualiseront dès que tu auras publié ton projet Stargate ce soir !)*
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceBatt&layout=compact&theme=cyberpunk&hide_border=true&langs_count=5" alt="Top Langages de MaxenceBatt" />
+      <!-- LE CAMEMBERT DES LANGAGES -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceBatt&layout=donut&theme=cyberpunk&hide_border=true&langs_count=5" alt="Top Langages de MaxenceBatt" />
     </td>
     <td width="50%" align="center">
+      <!-- LES STATS GLOBALES -->
       <img src="https://github-readme-stats.vercel.app/api?username=MaxenceBatt&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Statistiques GitHub de MaxenceBatt" />
     </td>
   </tr>
