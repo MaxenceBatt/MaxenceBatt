@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Qui suis-je ?
 
-Étudiant en **BUT Informatique (Aix-Marseille Université)**, passionné de développement, de jeu vidéo et de conception d'interfaces. J'aime l'alliance de la logique pure du code et de la sensibilité du **design et de l'ergonomie**. Quand je ne suis pas en train de structurer des bases de données ou de peaufiner une interface, je *grind* sur les jeux ou je planche sur de la logique de jeu sous **Unity**.
+Étudiant en **BUT Informatique (Illkirch - Université de Strasbourg)**, passionné de développement, de jeu vidéo et de conception d'interfaces. J'aime l'alliance de la logique pure du code et de la sensibilité du **design et de l'ergonomie**. Quand je ne suis pas en train de structurer des bases de données ou de peaufiner une interface, je *grind* sur les jeux ou je planche sur de la logique de jeu sous **Unity**.
 
 *   🎮 **Mindset :** Compétiteur dans l'âme, que ce soit in-game ou sur l'optimisation de mes projets.
 *   🎨 **Focus :** Rendre les applications fluides, interactives et visuellement marquantes pour l'utilisateur.
