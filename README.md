@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Qui suis-je ?
 
-Étudiant en **BUT Informatique (Illkirch - Université de Strasbourg)**, passionné de développement, de jeu vidéo et de sport. J'aime l'alliance de la logique pure du code et de la sensibilité du **design et de l'ergonomie**.
+Étudiant en **BUT Informatique (Illkirch - Université de Strasbourg)**, passionné de développement, de jeu vidéo et de sport. J'aime l'alliance de la logique pure du code et de la sensibilité du design et de l'ergonomie.
 
 *   🎮 **Mindset :** Compétiteur dans l'âme, que ce soit in-game ou sur l'optimisation de mes projets.
 *   🎨 **Focus :** Rendre les applications fluides, interactives et visuellement marquantes pour l'utilisateur.
