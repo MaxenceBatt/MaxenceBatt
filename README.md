@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFE02E,100:FFE75C&text=Maxence+Batt+🪐&height=250&fontSize=40&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FFAA00,30:FFE02E,45:00FF00,60:00FFFF,75:0000FF,90:AA00FF,100:FF00CC&text=Maxence+Batt+🪐&height=250&fontSize=40&fontColor=FFFFFF" width="100%"/>
 
 > "Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."
 
@@ -70,3 +70,4 @@ C'est le projet dont je suis le plus fier en cette première année. Développé
 ## 👾 Connexion Établie
 *   **GitHub :** [@MaxenceBatt](https://github.com/MaxenceBatt)
 *   *Profil Steam raccordé au même style visuel Cyberpunk.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9eda,50:2e6da4,100:1e3a5f&height=100&section=footer" width="100%"/>
