@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 ![Banner](banner_maxence_battV2.svg)
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗
-████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝
-██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗  
-██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝  
-██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
-
 ### `> BATT Maxence _ IUT Informatique Strasbourg`
 
 *"Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."*
@@ -100,18 +91,6 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceBatt&layout=compact&theme=cyberpunk&hide_border=true)](https://github.com/MaxenceBatt)
 
 </div>
-
----
-
-## 🎯 Roadmap
-
-```
-2025 ──▶ Finir BUT Info S2          ✅
-2025 ──▶ Enrichir GitHub            ⏳  ← t'es ici
-2026 ──▶ Stage développement        🔜
-2026 ──▶ Premier projet Unity solo  🔜
-2027 ──▶ BUT Info validé            🔜
-```
 
 ---
 
