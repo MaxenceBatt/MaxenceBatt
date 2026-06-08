@@ -69,4 +69,3 @@ C'est le projet dont je suis le plus fier en cette première année. Développé
 ## 👾 Connexion Établie
 *   **GitHub :** [@MaxenceBatt](https://github.com/MaxenceBatt)
 *   *Profil Steam raccordé au même style visuel Cyberpunk.*
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9eda,50:2e6da4,100:1e3a5f&height=100&section=footer" width="100%"/>
