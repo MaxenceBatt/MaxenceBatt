@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🪐 MaxenceBatt | Developer Profile 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2e6da4,100:4a9eda&text=Maxence+Batt+|+DEveloper+profile&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
 
 > "Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."
 
