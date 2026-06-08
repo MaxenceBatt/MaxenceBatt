@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 *"Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Étudiant+BUT+Informatique+%F0%9F%8E%93;Développeur+C%23+%2F+Java+%2F+SQL;Fan+de+jeux+vidéo+%26+game+design+%F0%9F%8E%AE;Futur+développeur+Unity+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Étudiant+BUT+Informatique+%F0%9F%8E%93;Développeur+C%23+%2F+Java+%2F+SQL;Fan+de+jeux+vidéo+%26+game+design+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
