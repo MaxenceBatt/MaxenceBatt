@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 *"Si ça ne vaut pas le coup d'être fait à fond, ça ne vaut pas le coup d'être fait tout court."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Étudiant+BUT+Informatique+%F0%9F%8E%93;Développeur+C%23+%2F+Java+%2F+SQL;Fan+de+jeux+vidéo+%26+game+design+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Étudiant+BUT+Informatique+%F0%9F%8E%93;Développeur+C%23+%2F+Java+%2F+SQL;Fan+de+jeux+vidéo+%26+et+de+sport+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,8 +41,7 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 
 - 🎮 **Mindset :** Compétiteur dans l'âme — optimiser un algo ou clutch un 1v5, c'est le même feeling
 - 🎨 **Focus :** Applications fluides, interactives et visuellement marquantes
-- 🕹️ **Objectif :** Développer mon propre jeu Unity de A à Z
-- 💼 **Dispo :** Stage fin de 2e année — double compétence **Code & UX/UI**
+- 🕹️ **Objectif :** Développer mon propre jeu de A à Z, pour l'expérience
 
 ---
 
@@ -97,18 +96,6 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceBatt&layout=compact&theme=cyberpunk&hide_border=true)](https://github.com/MaxenceBatt)
 
 </div>
-
----
-
-## 🎯 Roadmap
-
-```
-2025 ──▶ Finir BUT Info S2          ✅
-2025 ──▶ Enrichir GitHub            ⏳  ← t'es ici
-2026 ──▶ Stage développement        🔜
-2026 ──▶ Premier projet Unity solo  🔜
-2027 ──▶ BUT Info validé            🔜
-```
 
 ---
 
