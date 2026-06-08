@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Qui suis-je ?
 
-Étudiant en **BUT Informatique (Illkirch - Université de Strasbourg)**, passionné de développement, de jeu vidéo et de conception d'interfaces. J'aime l'alliance de la logique pure du code et de la sensibilité du **design et de l'ergonomie**. Quand je ne suis pas en train de structurer des bases de données ou de peaufiner une interface, je *grind* sur les jeux ou je planche sur de la logique de jeu sous **Unity**.
+Étudiant en **BUT Informatique (Illkirch - Université de Strasbourg)**, passionné de développement, de jeu vidéo et de sport. J'aime l'alliance de la logique pure du code et de la sensibilité du **design et de l'ergonomie**.
 
 *   🎮 **Mindset :** Compétiteur dans l'âme, que ce soit in-game ou sur l'optimisation de mes projets.
 *   🎨 **Focus :** Rendre les applications fluides, interactives et visuellement marquantes pour l'utilisateur.
@@ -58,23 +58,6 @@ C'est le projet dont je suis le plus fier en cette première année. Développé
 *   💼 **Stage (Fin de 2e année) :** Prêt à apporter ma double compétence "Code & Ergonomie" au sein d'une équipe technique.
 
 ---
-
-## 📊 Statistiques de Code & Activité
-
-Voici la répartition de mes langages sous forme de camembert et mon activité globale. *(Les graphiques s'actualiseront dès que tu auras publié ton projet Stargate ce soir !)*
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <!-- LE CAMEMBERT DES LANGAGES -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceBatt&layout=donut&theme=cyberpunk&hide_border=true&langs_count=5" alt="Top Langages de MaxenceBatt" />
-    </td>
-    <td width="50%" align="center">
-      <!-- LES STATS GLOBALES -->
-      <img src="https://github-readme-stats.vercel.app/api?username=MaxenceBatt&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Statistiques GitHub de MaxenceBatt" />
-    </td>
-  </tr>
-</table>
 
 <br />
 
