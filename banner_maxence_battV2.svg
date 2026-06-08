@@ -1,0 +1,182 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" width="900" height="280">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0015"/>
+      <stop offset="40%" style="stop-color:#1a0030"/>
+      <stop offset="100%" style="stop-color:#2d0050"/>
+    </linearGradient>
+
+    <!-- Neon pink glow -->
+    <filter id="glowPink" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Neon cyan glow -->
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Strong glow for title -->
+    <filter id="glowStrong" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" x="0" y="0" width="900" height="4" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" y="0" fill="rgba(0,0,0,0.25)"/>
+    </pattern>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(180,0,255,0.08)" stroke-width="0.5"/>
+    </pattern>
+
+    <!-- Clip -->
+    <clipPath id="clip">
+      <rect width="900" height="280" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <!-- Background -->
+    <rect width="900" height="280" fill="url(#bgGrad)"/>
+    <rect width="900" height="280" fill="url(#grid)"/>
+
+    <!-- Animated background blobs -->
+    <ellipse cx="150" cy="80" rx="180" ry="100" fill="rgba(180,0,255,0.12)">
+      <animate attributeName="rx" values="180;220;180" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.12;0.2;0.12" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="750" cy="200" rx="200" ry="120" fill="rgba(255,0,180,0.10)">
+      <animate attributeName="rx" values="200;160;200" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.10;0.18;0.10" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="500" cy="260" rx="250" ry="80" fill="rgba(0,220,255,0.07)">
+      <animate attributeName="ry" values="80;110;80" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Top border line (animated) -->
+    <line x1="0" y1="2" x2="900" y2="2" stroke="#ff00cc" stroke-width="2" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <!-- Bottom border line -->
+    <line x1="0" y1="278" x2="900" y2="278" stroke="#00eeff" stroke-width="2" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Corner decorations -->
+    <g filter="url(#glowCyan)" opacity="0.9">
+      <polyline points="10,30 10,10 30,10" fill="none" stroke="#00eeff" stroke-width="2"/>
+      <polyline points="870,10 890,10 890,30" fill="none" stroke="#00eeff" stroke-width="2"/>
+      <polyline points="10,250 10,270 30,270" fill="none" stroke="#00eeff" stroke-width="2"/>
+      <polyline points="870,270 890,270 890,250" fill="none" stroke="#00eeff" stroke-width="2"/>
+    </g>
+
+    <!-- Decorative horizontal lines left -->
+    <g opacity="0.5">
+      <line x1="30" y1="95" x2="160" y2="95" stroke="#ff00cc" stroke-width="0.8"/>
+      <line x1="30" y1="100" x2="120" y2="100" stroke="#ff00cc" stroke-width="0.4"/>
+      <line x1="30" y1="185" x2="160" y2="185" stroke="#ff00cc" stroke-width="0.8"/>
+      <line x1="30" y1="190" x2="120" y2="190" stroke="#ff00cc" stroke-width="0.4"/>
+    </g>
+    <!-- Decorative horizontal lines right -->
+    <g opacity="0.5">
+      <line x1="740" y1="95" x2="870" y2="95" stroke="#00eeff" stroke-width="0.8"/>
+      <line x1="780" y1="100" x2="870" y2="100" stroke="#00eeff" stroke-width="0.4"/>
+      <line x1="740" y1="185" x2="870" y2="185" stroke="#00eeff" stroke-width="0.8"/>
+      <line x1="780" y1="190" x2="870" y2="190" stroke="#00eeff" stroke-width="0.4"/>
+    </g>
+
+    <!-- Diamond decorations -->
+    <g filter="url(#glowPink)">
+      <polygon points="450,22 458,30 450,38 442,30" fill="none" stroke="#ff00cc" stroke-width="1.5">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </polygon>
+      <polygon points="450,242 455,247 450,252 445,247" fill="none" stroke="#ff00cc" stroke-width="1.2">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+
+    <!-- MAIN NAME — shadow layer -->
+    <text x="450" y="138" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="72" font-weight="900"
+      fill="none" stroke="#ff00cc" stroke-width="1"
+      opacity="0.3" filter="url(#glowStrong)">MAXENCE</text>
+
+    <!-- MAIN NAME — glitch offset -->
+    <text x="453" y="138" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="72" font-weight="900"
+      fill="#00eeff" opacity="0.15">MAXENCE</text>
+
+    <!-- MAIN NAME — primary -->
+    <text x="450" y="138" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="72" font-weight="900"
+      fill="#ffffff" filter="url(#glowStrong)" letter-spacing="8">
+      <animate attributeName="opacity" values="1;0.92;1;0.95;1" dur="5s" repeatCount="indefinite"/>
+      MAXENCE
+    </text>
+
+    <!-- BATT subtitle -->
+    <text x="450" y="170" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="22" font-weight="400"
+      fill="#ff00cc" filter="url(#glowPink)" letter-spacing="18">
+      <animate attributeName="opacity" values="1;0.6;1" dur="4s" repeatCount="indefinite"/>
+      B A T T
+    </text>
+
+    <!-- Top label -->
+    <text x="450" y="72" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="11"
+      fill="#00eeff" filter="url(#glowCyan)" letter-spacing="5" opacity="0.9">
+      ◆ BUT INFORMATIQUE · STRASBOURG ◆
+    </text>
+
+    <!-- Bottom tagline -->
+    <text x="450" y="220" text-anchor="middle"
+      font-family="'Courier New', monospace" font-size="12"
+      fill="#cc88ff" letter-spacing="3" opacity="0.85">
+      &lt; CODE · DESIGN · GAME /&gt;
+    </text>
+
+    <!-- Animated particles -->
+    <circle cx="80" cy="50" r="1.5" fill="#ff00cc" opacity="0.8">
+      <animate attributeName="cy" values="50;230;50" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="220" r="1" fill="#00eeff" opacity="0.7">
+      <animate attributeName="cy" values="220;40;220" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="30" r="1.5" fill="#ff00cc" opacity="0.8">
+      <animate attributeName="cy" values="30;250;30" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="180" r="1" fill="#00eeff" opacity="0.7">
+      <animate attributeName="cy" values="180;20;180" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="10" r="1.2" fill="#cc88ff" opacity="0.9">
+      <animate attributeName="cx" values="450;460;440;450" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Scanlines overlay -->
+    <rect width="900" height="280" fill="url(#scanlines)" opacity="0.4"/>
+
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="100%" style="stop-color:rgba(0,0,0,0.5)"/>
+    </radialGradient>
+    <rect width="900" height="280" fill="url(#vignette)"/>
+  </g>
+</svg>
