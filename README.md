@@ -113,11 +113,3 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 *`> Connexion établie. Bienvenue dans mon terminal. _`*
 
 </div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=MaxenceBatt&color=00f5ff&style=flat-square&label=Visiteurs)
-
-*`> Connexion établie. Bienvenue dans mon terminal. _`*
-
-</div>
