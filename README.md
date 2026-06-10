@@ -38,7 +38,10 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 🔗 [Voir le repo →](https://github.com/MaxenceBatt/Stargate-projet-IUT)
 
 ---
-
+## Autre projets
+Incryption en java
+Simulation d'un réseau en C
+---
 ## 🧰 Stack techno
 
 <div align="center">
