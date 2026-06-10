@@ -40,7 +40,7 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 ---
 ## Autre projets
 
-Incryption en java : 
+Incryption en java :  🔗 [Voir le repo →](https://github.com/MaxenceBatt/Inscryption-Projet-IUT)
 
 Simulation d'un réseau en C :
 
