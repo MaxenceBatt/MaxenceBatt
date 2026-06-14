@@ -42,7 +42,7 @@ Mon moteur : allier **logique pure du code** et **sensibilité du design** pour 
 
 Incryption en java :  🔗 [Voir le repo →](https://github.com/MaxenceBatt/Inscryption-Projet-IUT)
 
-Simulation d'un réseau en C :
+Création d'un premier jeu expérimental sur GoDot : 🔗 [Voir le repo →](https://github.com/MaxenceBatt/Projet-Jeu-Perso-Experimental)
 
 ---
 ## 🧰 Stack techno
